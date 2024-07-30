@@ -1,4 +1,10 @@
 # CS50 THE LEGENDARY POKEMON JOURNEY
+
+![Pokemon Game](https://github.com/user-attachments/assets/ca99b440-6b3e-4b6b-afa9-6826a4504646)
+![PokemonGame 2](https://github.com/user-attachments/assets/63ec111a-9765-489a-8746-58166b79370f)
+![Pokemon Game 3](https://github.com/user-attachments/assets/9253871b-1028-4682-a29c-279f3b7aa4d7)
+
+
 #### Video Demo:  <https://youtu.be/HRzQF5ogedk?si=1gPRo9GmiDGXuUws>
 #### Description:
 So i started this project started as an idea from Week 0 when i learned to work with Scratch. I am a huge Pokemon fan, and the series is ended so i thought to give a tribute and also i  wanted to understand how the game works behind the screen. I first thought to make game in pythongame and i  did my best with it, but i wasn't able to  figure out how animaion works for the player and the collisions of walls and trees would work , so i shifted to lua and LOVE2D because all i was able to accomplish making player move left and right and up down, he could walk on tree and houses T_T, etc. Now onto to the final project, I watched the Love2D Lua seminar of 2021 which was lifesaver (i don't know why they did remove it from 2023 Seminar section),after whatching that seminar I thought i can aslo make a more perfectlu working game. I literally searched the whole internet for LOVE2D tutorials. I came across to the [Challacade](https://www.youtube.com/@Challacade/videos) youtube channel and his LOVE2D basics playlist was life saver and helped me understand a lot of the game making and working mechanics. I learned to incorporate the [anim8 library](https://github.com/kikito/anim8) to animate my player, i also use the [Windfield library](https://github.com/a327ex/windfield) to detect collisions from trees, house, mountains, signs, characters, pokemon center, walls and lakes so that player could not surpass them and i used the [hump camera library](https://github.com/vrld/hump) for creating a camera which follows our character and we can explore more of our map and lastly [sti library](https://github.com/karai17/Simple-Tiled-Implementation) for background implementation.
